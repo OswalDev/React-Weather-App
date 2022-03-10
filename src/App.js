@@ -4,7 +4,7 @@ import axios from "axios";
 function App() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState('');
-  const [unit, setUnit] = useState('standard');  
+  const [unit, setUnit] = useState('standard'); 
   
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=${unit}&appid=8052fdfc529266ace2aec8dd7aa91df1`;
   //fahrenheit = imperial, celsius = metric
@@ -29,7 +29,7 @@ function App() {
           type="text" />
       </div>
       <div className="container">
-        
+
         <div className="top">
           <div className="location">
             <p>{data.name}</p>
