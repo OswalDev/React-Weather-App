@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OswalDev/React-Weather-App/static/css/main.2e1f97f8.css",
+    "main.js": "/OswalDev/React-Weather-App/static/js/main.aa2beba2.js",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/OswalDev/React-Weather-App/static/media/wallpaperflare.com_wallpaper.c6595717f90c3e02110c.jpg",
+    "index.html": "/OswalDev/React-Weather-App/index.html",
+    "main.2e1f97f8.css.map": "/OswalDev/React-Weather-App/static/css/main.2e1f97f8.css.map",
+    "main.aa2beba2.js.map": "/OswalDev/React-Weather-App/static/js/main.aa2beba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1f97f8.css",
+    "static/js/main.aa2beba2.js"
+  ]
+}
