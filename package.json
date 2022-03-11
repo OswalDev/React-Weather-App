@@ -1,6 +1,5 @@
 {
   "name": "react-weather-app",
-  "homepage": "https://github.com/OswalDev/React-Weather-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
