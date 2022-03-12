@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# React Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React weather app was built using the OpenWeatherMap API. I used axios to connect with our API, and successfully consume it in a very simple but fancy UI.
 
-## Available Scripts
+## App preview
 
-In the project directory, you can run:
+<img src= "public/react-weather-app.png ">
+
+## Demo link
+
+heck the online [demo](https://react-weather-app-dv2tlfren-oswaldev.vercel.app/) 
 
 ### `npm start`
 
