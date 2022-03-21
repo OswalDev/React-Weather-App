@@ -8,7 +8,7 @@ This React weather app was built using the OpenWeatherMap API. I used axios to c
 
 ## Demo link
 
-heck the online [demo](https://react-weather-app-dv2tlfren-oswaldev.vercel.app/) 
+Check the online [demo](https://react-weather-app-dv2tlfren-oswaldev.vercel.app/) 
 
 ### `npm start`
 
